@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: d232e8bc066b9e249af17a562b82c081
+timeCreated: 1525439067
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: eyes_hit
+    21300002: eyes
+    21300004: mouth_hit
+    21300006: mouth
+    21300008: hair
+    21300010: legLeft
+    21300012: legRight
+    21300014: pumpking_insides
+    21300016: Pumpking
+    21300018: right_upper_arm
+    21300020: right_lower_arm
+    21300022: right_hand
+    21300024: left_upperarm
+    21300026: left_arm
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eyes_hit
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 621
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyes
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 621
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mouth_hit
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 584
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mouth
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 572
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hair
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 495
+        width: 82
+        height: 105
+      alignment: 9
+      pivot: {x: 0.07837435, y: 0.6401146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: legLeft
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 479
+        width: 36
+        height: 74
+      alignment: 9
+      pivot: {x: 0.43870014, y: 0.93738455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: legRight
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 475
+        width: 35
+        height: 78
+      alignment: 9
+      pivot: {x: 0.39491424, y: 0.9621089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pumpking_insides
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 120
+        height: 446
+      alignment: 9
+      pivot: {x: 0.6839004, y: 0.0101486705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pumpking
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 9
+        width: 121
+        height: 446
+      alignment: 9
+      pivot: {x: 0.68845993, y: 0.0068499153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_upper_arm
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 395
+        width: 63
+        height: 75
+      alignment: 9
+      pivot: {x: 0.05630348, y: 0.82366496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_lower_arm
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 358
+        width: 62
+        height: 20
+      alignment: 9
+      pivot: {x: 0.87966526, y: 0.64712065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_hand
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 300
+        width: 49
+        height: 44
+      alignment: 9
+      pivot: {x: 0.9353563, y: 0.4832819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: left_upperarm
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 265
+        width: 59
+        height: 23
+      alignment: 9
+      pivot: {x: 0.9239062, y: 0.8198269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: left_arm
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 166
+        width: 49
+        height: 62
+      alignment: 9
+      pivot: {x: 0.1397051, y: 0.9508527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

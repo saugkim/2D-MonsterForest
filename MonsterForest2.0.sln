@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonsterForest2.0", "Assembly-CSharp.csproj", "{EBC29BC7-8CCD-750C-F422-CBE9FF23ED94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonsterForest2.0", "Assembly-CSharp-Editor.csproj", "{F8385875-4EF6-038E-4722-5EB51C4CCA8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBC29BC7-8CCD-750C-F422-CBE9FF23ED94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC29BC7-8CCD-750C-F422-CBE9FF23ED94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC29BC7-8CCD-750C-F422-CBE9FF23ED94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC29BC7-8CCD-750C-F422-CBE9FF23ED94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8385875-4EF6-038E-4722-5EB51C4CCA8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8385875-4EF6-038E-4722-5EB51C4CCA8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8385875-4EF6-038E-4722-5EB51C4CCA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8385875-4EF6-038E-4722-5EB51C4CCA8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
